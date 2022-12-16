@@ -7,11 +7,11 @@ body{
 	min-width: 800px;
 }
 
-li{
+/* li{
 	margin:0;
 	list-style: none;
 	display:inline;
-}
+} */
 
 a{
 	text-decoration: none;
@@ -136,3 +136,14 @@ footer .left{
 footer .right, header ul{
 	float:right;
 }
+
+#search {
+    display: block;
+    width: 600px;
+    height: 30px;
+    font-size: 20px;
+    margin: 30px auto;
+    border-radius: 5px;
+    border: 1;
+  }
+  
